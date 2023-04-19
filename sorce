@@ -1,3 +1,4 @@
+local character = game:GetService("Players").LocalPlayer.Character
 character.Head.Transparency = 1
 
 --R6 Rigs
